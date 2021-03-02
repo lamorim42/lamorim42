@@ -15,8 +15,5 @@ I'm **Luís**. I have already worked as <u>math teacher</u>, <u>designer</u> and
 [![exercism-kotlin](https://github-readme-stats.vercel.app/api/pin/?username=luishads&repo=exercism-kotlin)](https://github.com/luishads/exercism-kotlin)
 
 
-<a href= "https://www.linkedin.com/in/lu%C3%ADs-henrique-amorim-9a1705128/" target= "_blank">
-<image alt = "Luis-Linkedin" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-  
- 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-henrique-amorim-9a1705128/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishads@gmail.com)
