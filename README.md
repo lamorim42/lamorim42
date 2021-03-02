@@ -8,4 +8,6 @@ I'm **Luís**. I have already worked as <u>math teacher</u>, <u>designer</u> and
 👨‍💻 My main interest is Kotlin and I want to learn other programming languages too. I want to be Mobile Developer! 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![exercism-kotlin](https://github-readme-stats.vercel.app/api/pin/?username=luishads&repo=exercism-kotlin)](https://github.com/luishads/exercism-kotlin)
+
+[![Estudos](https://github-readme-stats.vercel.app/api/pin/?username=luishads&repo=Estudo-sobre-kotlin)](https://github.com/luishads/Estudo-sobre-kotlin)
