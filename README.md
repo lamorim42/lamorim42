@@ -10,9 +10,9 @@ I'm **Luís**. I have already worked as <u>math teacher</u>, <u>designer</u> and
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-[![Estudos](https://github-readme-stats.vercel.app/api/pin/?username=luishads&repo=Estudo-sobre-kotlin)](https://github.com/luishads/Estudo-sobre-kotlin)
+[![Kotlin](https://github-readme-stats.vercel.app/api/pin/?username=luishads&repo=app_banc_kotlin)](https://github.com/luishads/app_banc_kotlin)
 
-[![exercism-kotlin](https://github-readme-stats.vercel.app/api/pin/?username=luishads&repo=exercism-kotlin)](https://github.com/luishads/exercism-kotlin)
+[![Python](https://github-readme-stats.vercel.app/api/pin/?username=luishads&repo=estudo-python)](https://github.com/luishads/estudo-python)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-henrique-amorim-9a1705128/)
