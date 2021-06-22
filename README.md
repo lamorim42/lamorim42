@@ -3,13 +3,18 @@
 ![Matrix](https://media1.tenor.com/images/54d68b1898cdf8cc7b32a9492a8e5f98/tenor.gif?itemid=17168868)
 
 I'm **Luís**. I have already worked as <u>math teacher</u>, <u>designer</u> and <u>filmmaker</u>, but I highlight here the experiences as an <b>Entrepreneur</b>, where I was able to develop various skills which concerns company management and soft skills.
-<br>
+<br/>
 👨‍💻 My main interest is Kotlin and I want to learn other programming languages too. I want to be Mobile Developer! 
-<br>
+<br/>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<br/>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<br/>
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 [![C](https://github-readme-stats.vercel.app/api/pin/?username=luishads&repo=42_basecamp)](https://github.com/luishads/42_basecamp)
 
