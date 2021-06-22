@@ -6,9 +6,12 @@ I'm **Luís**. I have already worked as <u>math teacher</u>, <u>designer</u> and
 <br>
 👨‍💻 My main interest is Kotlin and I want to learn other programming languages too. I want to be Mobile Developer! 
 <br>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+[![C](https://github-readme-stats.vercel.app/api/pin/?username=luishads&repo=42_basecamp)](https://github.com/luishads/42_basecamp)
 
 [![Kotlin](https://github-readme-stats.vercel.app/api/pin/?username=luishads&repo=app_banc_kotlin)](https://github.com/luishads/app_banc_kotlin)
 
