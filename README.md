@@ -11,7 +11,13 @@
 - 😄 Pronouns: He/Him
 
 ---
+<h3> 42_projects </h3>
 
+<div>
+  <a href="https://github.com/lamorim42/libft"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/libfte.png" ></a>
+ </div>
+
+---
 <h3> Work space </h3>
 
 <h4> Tools </h4>
