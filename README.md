@@ -1,8 +1,8 @@
 # 👨‍🚀 Hello Earth! 👋 
 
-![Matrix](https://media1.tenor.com/images/54d68b1898cdf8cc7b32a9492a8e5f98/tenor.gif?itemid=17168868)
+<p align="center"><img width="100%" height="auto" src="https://media1.tenor.com/images/54d68b1898cdf8cc7b32a9492a8e5f98/tenor.gif?itemid=17168868"> </p>
 
-<h3> About me</h3>
+<h2> About me</h2>
 
 - 👨🏽‍🚀 I’m currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
 - 👨🏽‍🏫 Math teacher
@@ -15,13 +15,13 @@
 <!-- <h3> \-\-\-\> Level Status </h3> -->
 
 <div>
-  <p align="center"><img src="https://badge42.herokuapp.com/api/stats/lamorim?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
+  <p align="center"><img width="80%" height="auto" src="https://badge42.herokuapp.com/api/stats/lamorim?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
 </div>
 
 <h3> ---> 42_projects </h3>
 
 <div>
-  <a href="https://github.com/lamorim42/libft"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/libfte.png" ></a>
+  <a href="https://github.com/lamorim42/libft" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/libfte.png" ></a>
   <p><img src="https://badge42.herokuapp.com/api/project/lamorim/Libft" ></p>
 </div>
 
@@ -60,5 +60,6 @@
 
 <h2 align="center"> ---> Contact <--- </h2>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lu%C3%ADs-henrique-amorim-9a1705128/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luishads@gmail.com)
+<a href="https://www.linkedin.com/in/lu%C3%ADs-henrique-amorim-9a1705128/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</br>
+<a href="mailto:luishads@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
