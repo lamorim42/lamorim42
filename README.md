@@ -22,7 +22,7 @@
 
 <div>
   <a href="https://github.com/lamorim42/libft" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/libfte.png" ></a>
-  <p><img src="https://badge42.herokuapp.com/api/project/lamorim/Libft" ></p>
+  <a href="https://github.com/lamorim42/get_next_line" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" ></a>
 </div>
 
 ---
