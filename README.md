@@ -25,6 +25,7 @@
   <a href="https://github.com/lamorim42/get_next_line" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" ></a>
   <a href="https://github.com/lamorim42/ft_printf" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" ></a>
    <a><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" ></a>
+   <a href="https://github.com/lamorim42/so_long" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" ></a>
 </div>
 
 ---
