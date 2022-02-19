@@ -1,14 +1,14 @@
-# 👨‍🚀 Hello Earth! 👋 
+# :sunglasses: Hello Earth! :wave:
 
 <p align="center"><img width="100%" height="auto" src="https://media1.tenor.com/images/54d68b1898cdf8cc7b32a9492a8e5f98/tenor.gif?itemid=17168868"> </p>
 
 <h2> About me</h2>
 
-- 👨🏽‍🚀 I’m currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
-- 👨🏽‍🏫 Math teacher
-- 🧱 Interested in 3D Printing
-- 🌎 Love languages
-- 😄 Pronouns: He/Him
+- :computer: I’m currently studying Software Engineering as a Cadet at [42 São Paulo](https://www.42sp.org.br/)
+- :triangular_ruler: Math teacher
+- :hammer: Interested in 3D Printing
+- :green_heart: Love sports [:soccer:], food [:sushi:], music [:guitar:], movies [:clapper:] and coffee [:coffee:]
+- :smiley: Pronouns: He/Him
 
 ---
 <h2 align="center"> ---> 42 tracking <--- </h2>
@@ -21,24 +21,21 @@
 <h3> ---> 42_projects </h3>
 
 <div>
-  <a href="https://github.com/lamorim42/libft" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/libfte.png" ></a>
-  <a href="https://github.com/lamorim42/get_next_line" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" ></a>
-  <a href="https://github.com/lamorim42/ft_printf" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" ></a>
-   <a><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" ></a>
-   <a href="https://github.com/lamorim42/so_long" target="_blank"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" ></a>
-</div>
+  <h3 align="center">Fase 1 [:heavy_check_mark:]</h3>
+  <p align="center"><img height="142" width="142" src="https://game.42sp.org.br/static/assets/achievements/phase_onee.png" ></p>
+    <div align="center">
+  <a href="https://github.com/lamorim42/libft" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/libfte.png" ></a>
+  <a href="https://github.com/lamorim42/get_next_line" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" ></a>
+  <a href="https://github.com/lamorim42/ft_printf" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" ></a>
+   <a><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" ></a>
+   <a href="https://github.com/lamorim42/so_long" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" ></a>
+  <a href="https://github.com/lamorim42/pipex" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" ></a>
+    </div> 
+</div>  
 
 ---
 <h2 align="center"> ---> Work space <--- </h2>
-
-<h3> ---> Tools </h3>
-
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-<br/>
-![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+  
 <h3> ---> Programing languages </h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -47,6 +44,14 @@
 <br/>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+<h3> ---> Tools </h3>
+
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<br/>
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <h3> ---> Frameworks </h3>
 
