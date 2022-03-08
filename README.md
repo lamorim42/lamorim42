@@ -14,10 +14,6 @@
 <h2 align="center"> ---> 42 tracking <--- </h2>
 <!-- <h3> \-\-\-\> Level Status </h3> -->
 
-<div>
-  <p align="center"><img width="80%" height="auto" src="https://badge42.herokuapp.com/api/stats/lamorim?cursus=42cursus&privacyEmail=true&privacyName=true"> </p>
-</div>
-
 <h3> ---> 42_projects </h3>
 
 <div>
