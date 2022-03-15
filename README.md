@@ -15,6 +15,8 @@
 <!-- <h3> \-\-\-\> Level Status </h3> -->
 
 <h3> ---> 42_projects </h3>
+  
+  
 
 <div>
   <h3 align="center">Fase 1 [:heavy_check_mark:]</h3>
@@ -27,6 +29,13 @@
    <a href="https://github.com/lamorim42/so_long" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/so_longm.png" ></a>
   <a href="https://github.com/lamorim42/pipex" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" ></a>
     </div> 
+  
+  ---
+  
+  <div align="center">
+    <h3 align="center">Fase 2</h3>
+    <a href="https://github.com/lamorim42/push_swap" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" ></a>
+  </div>
 </div>  
 
 ---
