@@ -36,6 +36,8 @@
     <h3 align="center">Fase 2</h3>
     <a href="https://github.com/lamorim42/push_swap" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" ></a>
     <a href="https://github.com/lamorim42/minishell" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/minishelle.png" ></a>
+    <a href="https://github.com/lamorim42/philosophers" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" ></a>
+    <a href="https://github.com/lamorim42/netpractice" target="_blank"><img height="82" width="82" src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" ></a>
   </div>
 </div>  
 
@@ -67,6 +69,7 @@
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 <br/>
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![intelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <h3> ---> Frameworks </h3>
 
@@ -79,6 +82,10 @@
 <br/>
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+<h3> ---> Cloud </h3>
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <h3> ---> OS </h3>
 
